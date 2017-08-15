@@ -1,4 +1,5 @@
 .table {
+  @import '../theme/theme.scss';
   box-shadow: #000 0 0 3px;
   border-radius: 3px;
   padding: 20px;

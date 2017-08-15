@@ -1,6 +1,3 @@
-// global css
-import './theme/theme.scss';
-
 // classes you want to use immediately
 import {App} from './App';
 import {Http} from './Http';
